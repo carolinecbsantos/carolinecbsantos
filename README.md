@@ -74,5 +74,5 @@ Olá! Me chamo Caroline Santos, tenho 22 anos. Sou estudante de *Sistema de Info
 </picture>
 
 ### 🚀 *Contato*
-📧 Email: carolinesantosdev@gmail.com
+📧 Email: carolinesantosdev@gmail.com <br>
 🔗 LinkedIn: https://www.linkedin.com/in/carolinecbsantos
