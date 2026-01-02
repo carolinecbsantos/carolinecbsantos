@@ -8,7 +8,7 @@ Olá! Me chamo Caroline Santos, tenho 22 anos. Sou estudante de *Sistema de Info
 ### 🚀 Veja meu Portfólio e os meus projetos [*aqui.*](https://github.com/carolinecbsantos/portfolio)
 
 ### 📫 Contato
-[*Entre em contato comigo*](linkedin.com/in/carolinecbsantos)
+<a href="linkedin.com/in/carolinecbsantos" target="_blank">Entre em contato.</a>
 
 ### 🤖 Linguagens e Tecnologias
 <img 
