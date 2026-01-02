@@ -2,12 +2,12 @@
 
 **`Desenvolvedora FullStack`**
 
-## Sobre Mim 👩‍💻
+## *Sobre Mim* 👩‍💻
 Olá! Me chamo Caroline Santos, tenho 22 anos. Sou estudante de *Sistema de Informação*, Pós-Graduanda em *Segurança da Informação* e MBA *Cibersegurança*.
 
 ### 🚀 Veja meu Portfólio e os meus projetos [*aqui.*](https://github.com/carolinecbsantos/portfolio)
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 *Linguagens e Tecnologias*
 <img 
     align="left" 
     alt="HTML"
@@ -72,3 +72,7 @@ Olá! Me chamo Caroline Santos, tenho 22 anos. Sou estudante de *Sistema de Info
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/carolinecbsantos/carolinecbsantos/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/carolinecbsantos/carolinecbsantos/output/github-contribution-grid-snake.svg">
 </picture>
+
+### 🚀 *Contato*
+📧 Email: carolinesantosdev@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/carolinecbsantos
