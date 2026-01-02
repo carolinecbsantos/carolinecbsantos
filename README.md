@@ -5,10 +5,10 @@
 ## Sobre Mim 👩‍💻
 Olá! Me chamo Caroline Santos, tenho 22 anos. Sou estudante de *Sistema de Informação*, Pós-Graduanda em *Segurança da Informação* e MBA *Cibersegurança*.
 
-###🚀 Veja meu Portfólio e os meus projetos [*aqui.*](https://github.com/carolinecbsantos/portfolio)
+### 🚀 Veja meu Portfólio e os meus projetos [*aqui.*](https://github.com/carolinecbsantos/portfolio)
 
 ### 📫 Contato
-"[*Entre em contato comigo*](linkedin.com/in/carolinecbsantos)"
+[*Entre em contato comigo*](linkedin.com/in/carolinecbsantos)
 
 ### 🤖 Linguagens e Tecnologias
 <img 
