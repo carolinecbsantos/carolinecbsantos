@@ -65,15 +65,6 @@ Olá! Me chamo Caroline Santos, tenho 22 anos. Sou estudante de *Sistema de Info
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <br>
-<div>
-    [![Caroline Santos Github Stats](https://github-readme-stats.vercel.app/api?username=carolinecbsantos)](https://github.com/carolinecbsantos/github-readme-stats)
-    ![Caroline Santos Github Stats](https://github-readme-stats.vercel.app/api?username=carolinecbsantos&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
-    ![Caroline Santos Github Stats](https://github-readme-stats.vercel.app/api?username=carolinecbsantos&show_icons=true)
-    ![Caroline Santos Github Stats](https://github-readme-stats.vercel.app/api?username=carolinecbsantos&commits_year=2026)
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carolinecbsantos&show_icons=true&theme=transparent)
-    
-</div>
-<br>
 <br>
 ## 🚀 *Contato*
 📧 Email: carolinesantosdev@gmail.com <br>
