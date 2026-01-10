@@ -1,4 +1,5 @@
-# **🌟Bem-vindos ao meu GitHub**
+
+# <img src= "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3d0cWVhbDVhbHdmNXQ5dnVmYXloMnBucjJxY2R3MTA5MnRmdDUxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/mSq2Y8nouLVhQY720g/giphy.gif" width="30px" height="30px">**Bem-vindos ao meu GitHub**
 
 **`Desenvolvedora FullStack`**
 
