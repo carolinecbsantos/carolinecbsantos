@@ -22,19 +22,6 @@ Olá! Me chamo Caroline Santos, tenho 22 anos. Sou estudante de *Sistema de Info
 carolinesantosdev@gmail.com <br>
 🔗 LinkedIn: https://www.linkedin.com/in/carolinecbsantos
 
-<br>
-<br>
-
-## 🏆 *GitHub*
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-stats-git-main-carolinecbsantos-projects.vercel.app/api/top-langs/?username=m3dkata&layout=compact&theme=synthwave" alt="Linguagens">
-  </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-stats-git-main-carolinecbsantos-projects.vercel.app/api?username=carolinecbsantos&show_icons=true&theme=synthwave&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="GitHub Stats">
-  </a>
-  
-
-
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/carolinecbsantos/carolinecbsantos/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/carolinecbsantos/carolinecbsantos/output/github-contribution-grid-snake-dark.svg">
