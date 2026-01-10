@@ -10,14 +10,12 @@ Olá! Me chamo Caroline Santos, tenho 22 anos. Sou estudante de *Sistema de Info
 ### 🚀 Veja meu Portfólio e os meus projetos [*aqui.*](https://github.com/carolinecbsantos/portfolio)
 
 ## 🤖 *Linguagens e Tecnologias*
-<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ae,figma,ps,unity,c,css,html,java,js,mysql,nodejs,py,ts,vscode," />
   </a>
 </p>
 
 ## 🚀 *Contato*
-<div align="left">
  <a href="https://linkedin.com/in/carolinecbsantos"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <a href="https://bsky.app/profile/carolinedev.bsky.social"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/bluesky/default.svg"  width="52" height="40" alt="bluesky logo"  />
   <a href="https://instagram.com/carolinecbsantos"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg"  width="52" height="40" alt="instagram logo"  />
