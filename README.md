@@ -18,9 +18,9 @@ Olá! Me chamo Caroline Santos, tenho 22 anos. Sou estudante de *Sistema de Info
 
 ## 🚀 *Contato*
 <div align="left">
- <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"<a href="https://instagram.com/carolinecbsantos" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/bluesky/default.svg" <a href="https://bsky.app/profile/carolinedev.bsky.social" width="52" height="40" alt="bluesky logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" <a href="https://linkedin.com/in/carolinecbsantos" width="52" height="40" alt="instagram logo"  />
+ <a href="https://linkedin.com/in/carolinecbsantos"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <a href="https://bsky.app/profile/carolinedev.bsky.social"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/bluesky/default.svg"  width="52" height="40" alt="bluesky logo"  />
+  <a href="https://instagram.com/carolinecbsantos"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg"  width="52" height="40" alt="instagram logo"  />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/carolinecbsantos/carolinecbsantos/output/pacman-contribution-graph-dark.svg">
