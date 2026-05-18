@@ -17,8 +17,6 @@ Olá! Me chamo Caroline Santos, tenho 22 anos. Sou estudante de *Sistema de Info
 
 ## 🚀 *Contato*
  <a href="https://linkedin.com/in/carolinecbsantos"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <a href="https://bsky.app/profile/carolinedev.bsky.social"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/bluesky/default.svg"  width="52" height="40" alt="bluesky logo"  />
-  <a href="https://instagram.com/carolinecbsantos"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg"  width="52" height="40" alt="instagram logo"  />
 
   <br><br>
 
